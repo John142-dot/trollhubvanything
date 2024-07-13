@@ -1,4 +1,4 @@
--- revised and also if remake pls credit me
+-- I like central solara by my friend ian on rblx.
 
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local Window = Library.CreateLib("Trolling Hub v3.9", "Synapse")
@@ -498,7 +498,7 @@ Section3:NewButton("Wavehub", "Click to execute", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/2nfH0qEZ"))()
 end)
 
-Section1:NewButton("krampus", "S", function()
+Section1:NewButton("Teleporter tool", "S", function()
     loadstring(game:HttpGet("https://pastefy.app/edLCsuos/raw"))()
 end)
 
@@ -540,49 +540,6 @@ end)
 
 Section4:NewButton("Copy Discord Invite", "Copies the Discord invite link to your clipboard", function()
     local inviteLink = "https://discord.com/invite/MyhPWtZ2" -- Replace with your actual invite link
-
-    -- Function to copy text to clipboard
-    local function copyToClipboard(text)
-        local clip = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set) or (Clipboard and Clipboard.setClipboard)
-        if clip then
-            clip(text)
-        else
-            warn("Your exploit does not support clipboard copying")
-        end
-    end
-
-    -- Copy the invite link to the clipboard
-    copyToClipboard(inviteLink)
-    print("Discord invite link copied to clipboard!")
-end)
-
-Section4:NewButton("Vega X official web", "Copies the Discord invite link to your clipboard", function()
-    local inviteLink = "https://vegax.gg/" -- Replace with your actual invite link
-
-    -- Function to copy text to clipboard
-    local function copyToClipboard(text)
-        local clip = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set) or (Clipboard and Clipboard.setClipboard)
-        if clip then
-            clip(text)
-        else
-            warn("Your exploit does not support clipboard copying")
-        end
-    end
-
-    -- Copy the invite link to the clipboard
-    copyToClipboard(inviteLink)
-    print("Discord invite link copied to clipboard!")
-end)
-
-
-
-    -- Copy the invite link to the clipboard
-    copyToClipboard(inviteLink)
-    print("Discord invite link copied to clipboard!")
-end)
-
-Section4:NewButton("Official delta executor link", "Copies the Discord invite link to your clipboard", function()
-    local inviteLink = "https://deltaexploits.net/" -- Replace with your actual invite link
 
     -- Function to copy text to clipboard
     local function copyToClipboard(text)
