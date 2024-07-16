@@ -50,56 +50,49 @@ Section1:NewButton("Control npc", "S", function()
     loadstring(game:HttpGet(('https://pastefy.app/x8nWWq0M/raw'),true))()
 end)
 
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
+Section1:NewButton("Fe telekinesis NDS", "S", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Telekinesis-12332"))()
 end)
 
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
+Section1:NewButton("Antora", "S", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/K9ntra/Antora/main/abc.lua'))()
 end)
 
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
+Section1:NewButton("chat hax legacy chat"), "S", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-FE-Chat-Hax-V3.5-3512"))()
 end)
 
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
+Section1:NewButton("nameless admin (dont do stare all)", "S", function()
+    loadstring(game:HttpGet('https://gist.github.com/inuk84/ca841931f45f242c945405298b26bd71/raw/af364e5d4ea5b0d2eac404a5376d83c84a23cbe4/na.lua'))()
 end)
 
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
+Section1:NewButton("sillyware (poop script)", "S", function()
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-sillyware-hub-15577"))()
 end)
 
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
+Section1:NewButton("Demonic Hub", "S", function()
+    getgenv().ValidateType = "Key"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prosexy/Demonic-HUB-V2/main/DemonicHub_V2.lua", true))()
 end)
 
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
+Section1:NewButton("Fates", "S", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
 end)
 
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
+Section1:NewButton("Infinite yield normal", "S", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)
 
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
+Section1:NewButton("krampus 2 (placeholder script for v5)", "S", function()
+    loadstring(game:HttpGet("https://rawscripts.net/raw/recode-untitled-tag-game-OP-MODIFICATIONS-AND-MORE-15148"))()
 end)
 
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
+Section1:NewButton("Backdoor.exe", "S", function()
+    loadstring(game:HttpGet('https://pastebin.com/5WqKMe3G'))()
 end)
 
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
-end)
-
-Section1:NewButton("krampus", "S", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyWare/Remake-Executor/main/Executor/Krampus.Lua"))()
-end)
-
-Section1:NewButton("krampus", "shiet", function()
-    
+Section1:NewButton("Incognito chat", "shiet", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/wtykjqS0'))()
 end)
 
 Section1:NewButton("Become an nba star to prove mom wrong skrip", "Click to execute", function()
